@@ -4,3 +4,10 @@ snli_1.0_test.txt
 snli_1.0_dev.txt
 snli_1.0_test.jsonl
 snli_1.0_dev.jsonl
+# train_X.txt
+# test_X.txt
+# dev_X.txt
+# train_y.txt
+# test_y.txt
+# dev_y.txt
+*.txt
