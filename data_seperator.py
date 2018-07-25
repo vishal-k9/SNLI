@@ -1,6 +1,6 @@
 
 
-with open("snli_1.0_dev.txt", "rb") as f1, open("dev_X.txt", "wb") as f2, open("dev_y.txt", "wb") as f3:
+with open("snli_1.0_test.txt", "rb") as f1, open("test_X.txt", "wb") as f2, open("test_y.txt", "wb") as f3:
  	i=0
  	for row in f1:
  		i+=1
